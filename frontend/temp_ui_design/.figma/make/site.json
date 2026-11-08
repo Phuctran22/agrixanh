@@ -1,0 +1,10 @@
+{
+  "description": "An eco-friendly agricultural e-commerce platform using AI to classify product quality, enabling buyers to shop with confidence and sellers to manage inventory efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
